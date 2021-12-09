@@ -1,0 +1,47 @@
+{
+  "name": "John Doe",
+  "username": "Leola_VonRueden",
+  "address": {
+    "streetA": "Abbott Shoals",
+    "streetB": "505 Winona Place",
+    "streetC": "4306 Hudson Street Suite 875",
+    "streetD": "Suite 489",
+    "city": "Richardson",
+    "state": "Texas",
+    "country": "USA",
+    "zipcode": "41428-0189",
+    "geo": {
+      "lat": "-75.8513",
+      "lng": "81.3262"
+    }
+  },
+  "website": "destany.org",
+  "bio":
+    "Web & Mobile UI/UX designer, Motion designer following the latest ui & ux trends",
+  "company": {
+    "name": "Streich, Harber and Hilpert",
+    "catchPhrase": "Team-oriented hybrid neural-net",
+    "bs": "user-centric embrace vortals"
+  },
+  "avatar": "https://i.imgur.com/djSiIds.png",
+  "avatarBackground":
+    "https://i.imgur.com/rXVcgTZ.jpg",
+  "tels": [
+    { "id": "1", "name": "Mobile", "number": "+1 (089)-928-2134" },
+    { "id": "2", "name": "Work", "number": "+1 (112)-435-9887" }
+  ],
+  "emails": [
+    { "id": "1", "name": "Personal", "email": "johndoe-goodman@mail.com" },
+    { "id": "2", "name": "Work", "email": "johndoe@work.com" }
+  ],
+  "agencies": [
+    { "id": "1", "name": "Crest Healthcare Services", "email": "agency1@mail.com" },
+    { "id": "2", "name": "Dallas Healthcare", "email": "agency2@mail.com" }
+  ],
+  "certs": [
+    { "id": "1", "name": "Critical Care Certification", "location": "Richardson, TX" },
+    { "id": "2", "name": "Progressive Care Certification", "location": "Dallas, TX" },
+    { "id": "3", "name": "Physical Therapy Certification", "location": "Plano, TX" },
+    { "id": "4", "name": "Occupational Therapy Certification", "location": "Dallas, TX" }
+  ]
+}
